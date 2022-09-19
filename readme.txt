@@ -1,0 +1,7 @@
+markdown里是原始的文档
+
+两个pdf是markdown生成的，DynamorioTeach是关于编译链接的文档，DynamorioInstrace是关于获取trace的文档；
+
+instarce_simple.c的用法文档里有提到，用于替换原始的instarce_simple.c，生成目标trace文件；
+
+dynamorio.zip是全部修改完的源码，编译好可以获取Trace，无需更改
